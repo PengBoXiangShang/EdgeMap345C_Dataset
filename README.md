@@ -1,6 +1,6 @@
 # EdgeMap345C_Dataset
 
-<div align=center>![examples](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset/blob/master/illustrations/edges.png)
+![examples](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset/blob/master/illustrations/edges.png)
 
 ## Introduction
 This is a edge-map dataset including 290281 edge-maps
