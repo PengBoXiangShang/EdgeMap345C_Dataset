@@ -6,9 +6,9 @@
 This is a edge-map dataset including **290281** edge-maps
 corresponding to **345** object categories, termed as **Edge-Map-345C**, established by [Peng Xu](www.pengxu.net). In particular, these 345 categories are corresponding to the 345 free-hand sketch categories of [Google QuickDraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). Please see [categories.txt](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset/blob/master/categories.txt) for details.
 
-Some edge-mage samples are shown in above figure. This repository provides zip format packages in Google Drive and Baiduyun Disk, and will be continuously updated! <font color=red>Our paper associated with this dataset will be released soon.</font> If this dataset can be used in your research, please cite our paper.
+Some edge-mage samples are shown in above figure. This repository provides zip format packages in Google Drive and Baiduyun Disk, and will be continuously updated! <font color=red> Our paper associated with this dataset will be released soon. </font> If this dataset can be used in your research, please cite our paper.
 
-<font color="red">For sketch-specific study, this edge-map dataset can be used to pretrain the networks to solve the training data scarcity issue.</font>
+<font color=red>For sketch-specific study, this edge-map dataset can be used to pretrain the networks to solve the training data scarcity issue.</font>
 
 ## Collection Instructions
 The data collection can be divided into two steps: photo collection and edge-map extraction.
