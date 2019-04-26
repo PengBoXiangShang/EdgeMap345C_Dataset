@@ -42,7 +42,9 @@ networks on Edge-Map-345C training set, and classification results on Edge-Map-3
 
 ## Downloading Links
 Please download them via following links, respectively.
+
 Training Set (4.9GB): [Baiduyun Disk](), [Google Drive]() (coming soon).
+
 Validation Set (490MB): [Baiduyun Disk](https://pan.baidu.com/s/1MNb0oTrFkcnw-GD3O2Ys1Q：), [Google Drive]() (coming soon).
 
 <font color=green>If you want to download from Baiduyun, Please send email to Peng Xu to get the fetch code.</font>
