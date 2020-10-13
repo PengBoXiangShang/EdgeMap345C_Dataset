@@ -47,9 +47,18 @@ Training Set (4.9GB): [Baiduyun Disk part 1](https://pan.baidu.com/s/10WLUyvDgMK
 
 Validation Set (490MB): [Baiduyun Disk](https://pan.baidu.com/s/1MNb0oTrFkcnw-GD3O2Ys1Q：), [Google Drive] (coming soon).
 
-<font color=green>If you want to download from Baiduyun, Please send email to Peng Xu to get the fetch code.</font>
+<font color=green>If you would like to download from Baiduyun, Please send email to Peng Xu to get the fetch code.</font>
 
-If these links can not work well, please feel free to contact Peng Xu (peng.xu [AT] bupt.edu.cn).
+If these links can not work well, please feel free to contact Peng Xu (peng.xu [AT] ntu.edu.sg).
 
 
-
+## Citations
+If you find this dataset useful, please cite our paper as the following bibtex:
+```
+@article{xu2020learning,
+  title={On Learning Semantic Representations for Million-Scale Free-Hand Sketches},
+  author={Xu, Peng and Huang, Yongye and Yuan, Tongtong and Xiang, Tao and Hospedales, Timothy M and Song, Yi-Zhe and Wang, Liang},
+  journal={arXiv preprint arXiv:2007.04101},
+  year={2020}
+}
+```
